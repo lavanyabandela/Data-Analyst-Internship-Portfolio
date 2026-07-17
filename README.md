@@ -21,7 +21,7 @@ Repository Link: [https://github.com/lavanyabandela/EDA-Sales-Project.git]
 
 ### Task 4 - Data Storytelling and Insights
 
-Repository Link: [https://github.com/lavanyabandela/ApexPlanet-Task4.git]
+Repository Link: [https://github.com/lavanyabandela/ApexPlanetTask-4.git]
 
 ## Technical Skills Demonstrated
 
