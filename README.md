@@ -8,7 +8,7 @@ This repository showcases all the tasks completed during my Data Analyst Interns
 
 ### Task 1 - Data Immersion and Wrangling
 
-Repository Link: [https://github.com/lavanyabandela/ApexPlanet-Task1]
+Repository Link: [https://github.com/lavanyabandela/ApexPlanetTask-1.git]
 
 ### Task 2 - Exploratory Data Analysis
 
